@@ -121,8 +121,9 @@ The app includes 22 carefully selected colors:
 
 ## 📞 Connect With Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/swarnabhadutta909/]
-- **GitHub:** [[Your GitHub Profile](https://github.com/swarnabha-dutta)]
+- **Live Link:**https://background-changer-pearl.vercel.app
+- **LinkedIn:** https://www.linkedin.com/in/swarnabhadutta909
+- **GitHub:** https://github.com/swarnabha-dutta
 
 
 ## 📄 License
