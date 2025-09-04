@@ -2,7 +2,14 @@
 
 A dynamic and responsive background color changer built with **React**, **Vite**, and **TailwindCSS**. Features smooth transitions and an intuitive user interface with 22 beautiful color options.
 
-![Background Changer Demo](https://your-screenshot-url.com/demo.png)
+## Screenshots
+
+![App Screenshot 1](https://github.com/user-attachments/assets/7fcf7baa-28dd-4a3c-9034-c4b38c4fc711)
+
+![App Screenshot 2](https://github.com/user-attachments/assets/d89d9e59-8148-4447-9a53-bbcdda5a7847)
+
+![App Screenshot 3](https://github.com/user-attachments/assets/36817db1-4fb3-41f2-ada7-03f88cd673cf)
+
 
 ## ✨ Features
 
